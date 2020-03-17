@@ -2,8 +2,7 @@
           
           
                           
-                          This react app is live @ [Sorting Visualizer](https://sortingvisualizerr.herokuapp.com/)
-                         [Sorting Visualizer](<https://sortingvisualizerr.herokuapp.com/>)
+#            This react app is live @ [Sorting Visualizer](https://sortingvisualizerr.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
