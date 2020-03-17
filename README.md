@@ -5,7 +5,10 @@
 #            This react app is live @ [Sorting Visualizer](https://sortingvisualizerr.herokuapp.com/)
 
 
-
+• Built React application for visualizing sorting algorithms in a very pleasing way so that even common people can understand it.
+• Implemented Merge sort, Quick sort, Heap sort and Bubble sort. The actual sorting algorithm doing the heavy lifting is written in javascript.
+• The animation is done by a combination of HTML, CSS and JSX (react). The sorting is repeated with each CSS element in JSX.
+• Technology: Git, HTML 5, CSS3, Flexbox, Ecmascript, Javascript, React
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
