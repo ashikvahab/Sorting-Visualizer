@@ -2,7 +2,7 @@
           
           
                           
-                          This react app is live at https://sortingvisualizerr.herokuapp.com/
+                          This react app is live at [Sorting Visualizer](https://sortingvisualizerr.herokuapp.com/)
 
 
 
